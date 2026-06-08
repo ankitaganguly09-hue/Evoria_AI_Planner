@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langchain-chroma
+
+chromadb
+streamlit
+plotly
+pandas
+
+python-dotenv
+pydantic
